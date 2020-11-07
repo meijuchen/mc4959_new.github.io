@@ -1,0 +1,14 @@
+---
+title: "p8105 - Homework 4"
+author: "Meiju Chen"
+---
+
+### About the website
+
+This is the first website that I have created for P8105 - Homework 4.
+
+In this page, you can find:
+
+* My resume
+* Some graphs created by using plotly
+* Data from NYC restaurant inspections 

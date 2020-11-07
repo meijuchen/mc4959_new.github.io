@@ -1,0 +1,18 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "about"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<mc4959@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: https://github.com/meijuchen
+    - icon: fab fa-instagram
+      href: https://www.instagram.com/angeline.mj.chen/
+    - text: "Dashboard"
+      href: dashboard.html
+output:
+  html_document:
+    theme: journal

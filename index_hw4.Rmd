@@ -1,14 +1,33 @@
 ---
-title: "p8105 - Homework 4"
-author: "Meiju Chen"
+title: "Angeline's Website"
+output: 
+  html_document:
+      toc: true
+      toc_float: true
+      theme: journal
 ---
 
-### About the website
+![](image/me.jpg)
+Hi, I am Angeline. So nice to meet you here :)
+
+---
+
+# ABOUT THE WEBSITE
 
 This is the first website that I have created for P8105 - Homework 4.
 
 In this page, you can find:
 
-* My resume
+* [About me](about.html)
 * Some graphs created by using plotly
 * Data from NYC restaurant inspections 
+
+---
+
+# SOMETHING MORE
+Say hi to Juice!
+She is a 2 year old golden retriever, a baby of a friend of my friend's.
+
+<br><img src="image/meandjuice.jpg" alt="juice" style="width:70%"><br>
+<br><img src="image/juice_2.jpg" alt="juice" style="width:70%"><br>
+<br><img src="image/juice_3.jpg" alt="juice" style="width:70%"><br>
